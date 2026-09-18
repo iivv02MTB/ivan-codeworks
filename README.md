@@ -14,3 +14,4 @@ I'm a Web Application Development student focused on building practical software
 Developing personal and academic projects while strengthening my foundations in programming, databases, backend development and modern web technologies.
 
 <img width="212" height="67" alt="image" src="https://github.com/user-attachments/assets/4ae44f43-0e04-4327-a70a-aaa4412d6ed1" />
+
